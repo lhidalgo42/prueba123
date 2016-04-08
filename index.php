@@ -1,3 +1,3 @@
 <?php
-$hola = "hola Mundo! 123";
+$hola = "hola Mundo!";
 echo $hola;
